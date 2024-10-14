@@ -6,6 +6,5 @@ sqlalchemy~=2.0.35
 pydantic==2.9.2
 PyJWT==2.6.0
 passlib~=1.7.4
-alembic==1.10.0
 
 pydantic-settings~=2.5.2
